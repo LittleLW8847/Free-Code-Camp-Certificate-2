@@ -25,6 +25,10 @@ img{
     padding: 5;
 }
 
+ul>li{
+    margin-top: 5px;
+}
+
 figcaption{
     text-align: center;
     padding-top: 10;
